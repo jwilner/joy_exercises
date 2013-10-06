@@ -1,6 +1,6 @@
 # joy_exercises
 
-A Clojure library designed to ... well, that part is up to you.
+My solutions to a few of the Joy of Clojure problems
 
 ## Usage
 
