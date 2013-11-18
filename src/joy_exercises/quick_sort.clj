@@ -1,4 +1,4 @@
-(ns joy-exercises.core)
+(ns joy-exercises.quick-sort)
 
 ;;Listing 6.3
 (defn nom [n] (take n (repeatedly #(rand-int n))))
